@@ -2,15 +2,6 @@
 
 FLUTTER: lucyinthesky video demo. TikTok Like video Demo. Online Video Market Demo
 
-## Getting Started
+## Here is gif demo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Recording - iPhone 14 Pro Max - 2023-07-09 at 10 22 25](https://github.com/hiloliddinj/lucyinthesky_video_demo/assets/38894285/8c6c8fd8-b692-4099-9238-240b1be03d3f)
